@@ -1,0 +1,37 @@
+body {
+    text-align: center; 
+    font-family: 'Roboto Condensed', sans-serif;
+    background-color: #CCCC99;
+ }
+ nav a {
+     padding-left: 10px;
+     font-size: 20px;
+ }
+ h1 {
+     color: red;
+     font-size: 50px;
+ }
+ h2 {
+     color: purple;
+ }
+ h4 {
+     color: red;
+     font-size:30px;
+ }
+ 
+ ol, ul {
+     list-style-position: inside;
+     font-size: 30px;
+ }
+ 
+ .product-list__items img {
+     width: 30%;
+ }
+ .about-us {
+     text-align: left;
+ }  
+ 
+ p {
+   font-size: 22px;
+
+ }
